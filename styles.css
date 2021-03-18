@@ -1,4 +1,4 @@
-img {
+div img {
   width: 200px;
   height: 200px;
   border-radius: 100%;
@@ -7,4 +7,14 @@ img {
 div {
   width: 300px;
   float: left;
+  margin-left:5px ;
+}
+div p {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: small;
+  background-color: lightsteelblue;
+  margin-top: 10px;
+}
+body{
+  text-align: center;
 }
